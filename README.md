@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yvonne144
 - 👀 I’m interested in coding and programming!!
-- 🌱 I’m currently learning fluutter
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on an android application
 - 📫 How to reach me wanguiyvonne333@gmail.com
 - 😄 Pronouns: She/Her
